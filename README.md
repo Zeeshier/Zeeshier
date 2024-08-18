@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Zeeshan Ahmad, from Sargodha, Pakistan.<br>🧑‍🎓 I'm a student of Computer Science.<br>✍️ I’m currently learning Artificial Intelligence &  Machine Learning.<br>✉️ How to reach me:  zeeshanwarraich51@gmail.com
+I'm Zeeshan Ahmad, from Sargodha, Pakistan.<br>🧑‍🎓 Student of Computer Science.<br>✍️ Currently learning Artificial Intelligence &  Machine Learning.<br>✉️ How to reach me:  zeeshanwarraich51@gmail.com
 
 
 ## 🌐 Socials:
