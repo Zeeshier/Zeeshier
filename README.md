@@ -1,11 +1,11 @@
 # 💫 About Me:
-I'm Zeeshan Ahmad, from Sargodha, Pakistan.<br>🧑‍🎓 Student of Computer Science.<br>✍️ Currently learning Artificial Intelligence &  Machine Learning.<br>✉️ How to reach me:  zeeshanbusinessinfo@gmail.com
+I'm Zeeshan Ahmad, from Sargodha, Pakistan.<br>🧑‍🎓 Student of Computer Science.<br>✍️ Currently learning Agentic AI.<br>✉️ How to reach me:  zeeshanwarraich51@gmail.com
 
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshier) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeeshier) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zeeshier) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshier) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zeeshier) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zeeshier) 
 
 
 
