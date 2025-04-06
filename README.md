@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Zeeshan Ahmad,from Pakistan.<br>🧑‍🎓 Student of  Science.<br>✍️ Currently learning Agentic AI.<br>✉️ How to reach me:  
+Pakistan.<br>🧑‍🎓 Student of  Science.<br>✍️ Currently learning Agentic AI.<br>✉️ How to reach me:  
 
 
 
