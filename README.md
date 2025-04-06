@@ -4,9 +4,6 @@ I'm Zeeshan Ahmad,from Pakistan.<br>🧑‍🎓 Student of  Science.<br>✍️ C
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshier) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zeeshier) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zeeshier) 
-
 
 
 
