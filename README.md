@@ -11,11 +11,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zeeshier&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshier&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zeeshier&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
