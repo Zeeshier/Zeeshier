@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML Internship Projects<br>🌱 I’m currently learning Agentic AI<br> 📧 Contact me : zeeshanwarraich51@gmail.com
+🔭 I’m currently working on AI/ML Projects<br>🌱 I’m currently learning Agentic AI<br> 📧 Contact me : zeeshanwarraich51@gmail.com
 
 
 ## 🌐 Socials:
