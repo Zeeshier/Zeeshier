@@ -1,4 +1,4 @@
-# Hi there, I'm Zeeshan! AI/ML ENGINEER 👋
+# Hi there, I'm Zeeshan, AI/ML Engineer 👋
 
 
 
@@ -30,6 +30,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshier&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshier&theme=radical)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshier)](https://github.com/Zeeshier)
 
 </div>
 
